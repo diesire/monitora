@@ -28,3 +28,7 @@ Para la comunicación entre el servidor y los agentes se usan dos tecnologías
 ## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />Excepto donde se indique lo contrario, este trabajo está bajo una licencia <a rel="license" href="./LICENSE.md">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+----
+
+Thanks to [GitHub Education](https://education.github.com) for support
