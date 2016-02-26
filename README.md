@@ -1,4 +1,6 @@
-![Monitorización de entornos Oracle de forma distribuida](./resources/logo.svg)
+<div style="box-shadow: 3px 3px 3px #ccc; margin-bottom: 1em;">![Monitorización de entornos Oracle de forma distribuida](./resources/logo.png)
+</div>
+
 
 > Proyecto Fin de Máster en Ingeniería Web de la Universidad de Oviedo
 >
