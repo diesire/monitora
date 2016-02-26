@@ -1,4 +1,5 @@
-<div style="box-shadow: 3px 3px 3px #ccc; margin-bottom: 1em;">![Monitorización de entornos Oracle de forma distribuida](./resources/logo.png)
+<div style="box-shadow: 3px 3px 3px #ccc; margin-bottom: 3em;">
+![Monitorización de entornos Oracle de forma distribuida](logo)
 </div>
 
 
