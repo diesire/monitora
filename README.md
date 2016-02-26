@@ -1,9 +1,7 @@
-<iframe src="https://docs.google.com/presentation/d/10sGpl6sSiFsf5UA3IDAuXDtLScbwuxVLSG9hIcUQxig/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
+![Monitorización de entornos Oracle de forma distribuida](./resources/logo.svg)
 
 > Proyecto Fin de Máster en Ingeniería Web de la Universidad de Oviedo
-
+>
 > Originalmente publicado en http://hdl.handle.net/10651/31965
 
 [MonitORA](https://github.com/diesire/monitora) es un aplicación para la monitorización de bases de datos Oracle de manera distribuida. Ofrece una alternativa sencilla, multiplataforma, modular, escalable y de bajo coste a otras herramientas del mercado.
